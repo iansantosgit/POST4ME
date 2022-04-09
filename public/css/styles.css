@@ -1,0 +1,49 @@
+#index-body {
+    background-image: url(../images/post4me.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#index-form-login {
+    width: 350px;
+    height: 320px;
+    position: absolute;
+    top: 60px;
+    right: 120px;
+}
+
+#btn-login-index{
+    padding-top: 20px;   
+}
+
+#criar-conta-index {
+    padding-top: 8px;
+    text-align: center;
+    font-size: 15px;
+    color: rgb(78, 78, 78);
+}
+
+#btn-criar-conta-index {
+    color: rgb(0, 75, 173);
+    cursor: pointer;
+    text-decoration: none;
+}
+
+#home-body {
+    background-image: url(../images/post4mehome.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#post-box {
+    width: 920px;
+    height: 380px;
+    position: absolute;
+    top: 60px;
+    right: 80px;
+}
+
+#barra-detalhamento {
+    width: 500px;
+    
+}
